@@ -1,4 +1,4 @@
 # hello-world
 github-guide
 
-Update from remote new branch
+Update from remote
